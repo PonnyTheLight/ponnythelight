@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there, Im David Ramos (PonnyTheLight) 👋
 
-<!--
-**PonnyTheLight/ponnythelight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/37ISl7o.png">
 
-Here are some ideas to get you started:
+## About me
+- Web Developer.
+- 1 year of experience.
+- Wanting to learn.
+- Studying medium grade of technician in microcomputer systems and networks in Spain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+NextJS ReactJS HTML CSS JavaScript TailwindCSS Prisma.io
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ponnythelight&show_icons=true&theme=algolia" >
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ponnythelight&show_icons=true&theme=algolia" >
+</p>
