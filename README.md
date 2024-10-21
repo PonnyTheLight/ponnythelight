@@ -6,7 +6,6 @@
 - Web Developer.
 - 1 year of experience.
 - Wanting to learn.
-- Studying medium grade of technician in microcomputer systems and networks in Spain.
 
 ## Stack
 NextJS ReactJS HTML CSS JavaScript TailwindCSS Prisma.io
