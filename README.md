@@ -19,5 +19,5 @@ NextJS ReactJS HTML CSS JavaScript TailwindCSS Prisma.io
 TryHackMe - CiberSecurity Pentester
 
 <p align="center">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1929947" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/PonnyTheLight.png" alt="Your Image Badge" />
 </p>
