@@ -18,4 +18,6 @@ NextJS ReactJS HTML CSS JavaScript TailwindCSS Prisma.io
 ## Learning
 TryHackMe - CiberSecurity Pentester
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1929947" style='border:none;' >
+<p align="center">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1929947" style='border:none;'></iframe>
+</p>
